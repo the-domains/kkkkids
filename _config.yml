@@ -1,4 +1,4 @@
-name: KKK
+name: KKK KIDS
 favicon: null
 layout_spectrum: 0.4101783
 typography_spectrum: 0.5842717
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9270662
+  brandStrength: 0.5
   lightness: 0.4358896
   saturation: 0.9844669
   rhythmicContrast: 0.8220947
