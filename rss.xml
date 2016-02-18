@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[KKKkids]]></title>
         <description><![CDATA[KKKkids]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kkkkids/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 02:32:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 02:47:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kkkkids/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Chinese New Year Lunch]]></title>
-            <description><![CDATA[<article><h1>Chinese New Year Lunch</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5082d1631edfa6f4d992601207578b8d182877f.png"></article>]]></description>
-            <link>undefinedchinese-new-year-lunch/index.html</link>
+            <title><![CDATA[Kris-Kat-Kaylee]]></title>
+            <description><![CDATA[<article><h1>Kris-Kat-Kaylee</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5082d1631edfa6f4d992601207578b8d182877f.png"></article>]]></description>
+            <link>urn:uuid:647cfa71-e0d5-4d10-93e4-1f7a3abe41f3</link>
             <guid isPermaLink="false">849813ee-bd42-47b2-9e6e-f33b565405bb</guid>
-            <pubDate>Thu, 18 Feb 2016 02:32:36 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 02:47:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
